@@ -5,6 +5,7 @@ from models.categories import Category
 from forms.category_forms import CreateCategoryForm, UpdateCategoryForm
 
 
+#Hola mundo
 
 category_views = Blueprint('category',__name__)
 
